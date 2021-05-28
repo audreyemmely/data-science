@@ -1,2 +1,3 @@
-# ciencia-de-dados
-Listas da disciplina de Ciência de dados 
+# Ciência de dados
+
+Conteúdos da disciplina Ciência de dados
